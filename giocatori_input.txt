@@ -1,0 +1,30 @@
+Cristiano Ronaldo, 10
+Paulo Dybala, 9
+Zlatan Ibrahimovic, 9
+Romelu Lukaku, 9
+Lorenzo Insigne, 8
+Ciro Immobile, 9
+Dries Mertens, 8
+Franck Ribery, 8
+Alejandro Gomez, 8
+Sergej Milinkovic-Savic, 8
+Gianluigi Donnarumma, 9
+Kalidou Koulibaly, 8
+Leonardo Bonucci, 8
+Stefan de Vrij, 8
+Alessio Romagnoli, 7
+Federico Chiesa, 8
+Nicolo Barella, 8
+Sandro Tonali, 7
+Hakan Calhanoglu, 8
+Luis Alberto, 8
+Rodrigo De Paul, 7
+Josip Ilicic, 8
+Duvan Zapata, 8
+Matthijs de Ligt, 8
+Theo Hernandez, 8
+Achraf Hakimi, 8
+Lautaro Martinez, 8
+Henrikh Mkhitaryan, 7
+Edin Dzeko, 8
+Federico Bernardeschi, 7
